@@ -364,7 +364,8 @@ body {
     width: 100%;
     display: flex;
     justify-content: space-around;
-    gap: 300px;
+    gap: 40%;
+
     align-items: flex-start;
   }
   .contenedor-logo {
