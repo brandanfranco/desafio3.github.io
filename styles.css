@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(./img/puntitos.png);
+  background-image: url(/img/puntitos.png);
 }
 
 .header {
@@ -74,7 +74,7 @@ body {
   width: 318px;
   height: 300px;
 
-  background-image: url(./img/pixlr-bg-result.png);
+  background-image: url(/img/pixlr-bg-result.png);
 
   background-size: cover;
 }
@@ -128,7 +128,7 @@ body {
   .check {
     height: 200px;
     width: 200px;
-    background-image: url(./img/check.png);
+    background-image: url(/img/check.png);
     background-size: cover;
   }
   .soy {
@@ -177,7 +177,7 @@ body {
 .imagen2 {
   width: 80px;
   height: 80px;
-  background-image: url(./img/check.png);
+  background-image: url(/img/check.png);
   margin-left: 147px;
 }
 
@@ -355,7 +355,7 @@ body {
   width: 77px;
   height: 71px;
   left: 16px;
-  background-image: url(./img/916da538847c4db7943b5f78b083d909.png);
+  background-image: url(/img/916da538847c4db7943b5f78b083d909.png);
   background-size: cover;
 }
 
@@ -395,7 +395,7 @@ body {
   width: 27px;
   height: 27px;
   left: 19px;
-  background-image: url(./img/instagram.png);
+  background-image: url(/img/instagram.png);
   background-size: cover;
   margin-top: 80px;
 }
@@ -418,7 +418,7 @@ body {
   width: 28px;
   height: 28px;
   left: 19px;
-  background-image: url(./img/linkedin.png);
+  background-image: url(/img/linkedin.png);
   margin-top: 29px;
 }
 
@@ -427,7 +427,7 @@ body {
   height: 29px;
   left: 19px;
   margin-top: 29px;
-  background-image: url(./img/github.png);
+  background-image: url(/img/github.png);
 }
 
 .texto-linkedin {
